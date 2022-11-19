@@ -22,6 +22,6 @@ weibo: [qbeenslee](http://weibo.com/qbeenslee)
 
 创作: vim / mweb / photoshop / premiere / sai
 
-爱好: snowboarding
+运动: snowboarding
 
 
